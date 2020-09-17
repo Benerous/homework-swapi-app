@@ -18,10 +18,12 @@ Application uses API from [Swapi](https://swapi.dev/) to render information abou
 * React styled-components
 
 ## Setup
-* git clone https://github.com/Benerous/homework-swapi-app.git
-* cd homework-swapi-app
-* npm install
-* npm start
+```
+git clone https://github.com/Benerous/homework-swapi-app.git
+cd homework-swapi-app
+npm install
+npm start
+```
 
 ## Features
 List of features:
@@ -30,7 +32,7 @@ List of features:
 * themes toggling between light and dark
 * character search by name
 
-To-do list of improvements:
+## To-do list of improvements:
 * UI improvements
 * more themes
 * lists of planets, starships, species, etc.
